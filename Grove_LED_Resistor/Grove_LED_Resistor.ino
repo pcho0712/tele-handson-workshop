@@ -1,3 +1,11 @@
+//(Recipe)
+/**
+( input )   - A0 potentiometer
+( output )  - D7 led module with blue led, default brightness setting
+
+**/
+
+
 // demo of Starter Kit V2.0 - Grove Sound Sensor
 // when sound larger than a certain value, led will on
 const int pinSound = A0;               // pin of Sound Sensor
